@@ -1,0 +1,13 @@
+/* Add your custom extension styling here */
+/*TOP BAR BOX*/
+
+#panelBox {
+    margin-left: 960px;
+    padding-right: 960px;
+
+}
+
+#panel {
+    background: rgba(0, 0, 0, 0);
+    
+}

@@ -1,0 +1,8 @@
+{
+  "name": "Half Panel",
+  "description": "remove left half of the gnome panel and make panel transparent",
+  "uuid": "halfpanel@poplzp",
+  "shell-version": [
+    "41"
+  ]
+}
